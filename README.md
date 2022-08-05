@@ -1,2 +1,2 @@
 # parquet_file
-Parquet file 
+script helps in converting csv in Parquet file 
